@@ -3,7 +3,7 @@
 This repository contains the reference implementation accompanying the paper
 
 > **Quasi-Laplace Processes: Hybrid Lévy Models with Continuous Quadratic Variation**
-> Kenneth P. Perez, Schools Division of Tangub City, Department of Education, Philippines.
+> Kenneth P. Perez, University of Science and Technology of Southern Philippines, Cagayan de Oro City, Philippines.
 
 ## Contents
 
