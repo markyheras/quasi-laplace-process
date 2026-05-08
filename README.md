@@ -80,7 +80,6 @@ If you use this code, please cite:
 ```
 Perez, K. P. (2026). Quasi-Laplace Processes: Hybrid Levy Models
 with Continuous Quadratic Variation.
-Statistics & Probability Letters (forthcoming).
 ```
 
 ## Contact
